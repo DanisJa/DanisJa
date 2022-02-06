@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DanisJa
+- 👀 I’m interested in everything currently.
+- 🌱 I’m currently learning React.
